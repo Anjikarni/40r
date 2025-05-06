@@ -1,0 +1,26 @@
+git init 
+
+git add .
+
+git commit -m "name"
+
+git remote add origin https://github.com/Anjikarni/40r.git
+
+git branch -M main
+
+git push origin main 
+
+
+
+
+
+
+
+
+existing:
+
+git add .
+
+git commit -m "infdgg"
+
+git push  

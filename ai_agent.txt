@@ -1,0 +1,13 @@
+-->SCHEMA in the sence 
+-->jeson
+-->An AI agent is a system that can perceive its environment, make decisions, 
+and take actions to achieve specific goals, often using artificial intelligence techniques.
+
+"RSS Read" typically refers to the act of reading an RSS feed, where RSS stands for Really Simple Syndication. 
+It's a way to subscribe to and automatically receive updates from websites, blogs, news outlets, or podcasts.
+
+
+The term "edit field" typically refers to a user interface element where users can input or modify text. It’s commonly found in forms, apps, and websites.
+
+
+
