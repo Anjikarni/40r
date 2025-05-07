@@ -4,7 +4,7 @@ git add .
 
 git commit -m "name"
 
-git remote add origin https://github.com/Anjikarni/40r.git
+git remote add origin https://github.com/Anjikarni/repo.git.git
 
 git branch -M main
 
@@ -15,7 +15,7 @@ git push origin main
 
 
 
-
+g
 
 existing:
 
@@ -24,3 +24,66 @@ git add .
 git commit -m "infdgg"
 
 git push  
+
+
+
+
+
+git init
+git add .
+git commit -m "svbis"
+git remote add origin .git
+git branch -M main
+git push origingit init
+git add .
+git commit -m "wiygfe"
+git remote add origin .git
+git branch -M main
+git push origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git add .
+
+git commit
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -114,16 +114,35 @@
 
 
 
-def smallest_of_three(a,b,c):#a=5 ,b=10 ,c=1
-     if a<=b and a>=c:
-         return a
-     elif  b>=c and b>=a:
-         return b
-     else:
-         return c
-print(smallest_of_three(5,10,1) )
-print(smallest_of_three(10,1,0))
-print(smallest_of_three(1,0,-1))
+# def smallest_of_three(a,b,c):#a=5 ,b=10 ,c=1
+#      if a<=b and a>=c:
+#          return a
+#      elif  b>=c and b>=a:
+#          return b
+#      else:
+#          return c
+# print(smallest_of_three(5,10,1) )
+# print(smallest_of_three(10,1,0))
+# print(smallest_of_three(1,0,-1))
 
 
+# def subtraction_numbers(a,b):
+#     return a-b
+# print(subtraction_numbers(6,5))
+
+# def multi_numbers(a,b,c):
+#     return a*b*c
+# print(multi_numbers(2,3,4))
+
+# def division_numbers(a,h):
+#     return a//h
+# print(division_numbers(6,2))
+
+# def division_numbers(a,b):
+#      return a%2==0 and b%2==0
+# print(division_numbers(6,2))
+
+# def comparision(a,b):
+#     return a==b
+# print(comparision(5,5))
 
